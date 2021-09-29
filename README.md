@@ -1,4 +1,6 @@
-# Music-Speech-Classification
+<p align="center">
+  <h3 align="center">Music-Speech-Classification</h3>
+</p>
 
 ### Unsupervised Music Speech Classification using Gaussian Mixture Models (Expectation Maximization algorithm)
 
